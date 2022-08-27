@@ -1,0 +1,1 @@
+("8.4" ta6nt ("1a98e74ce13843bbebc2c903019992acd4c19076" . "3bccc75d224155e3ecd447f9c965c1860a910764") #"D:\\CC\\7mo Semestre\\Compiladores\\Proyecto Final\\[COMP22-2_ProyectoFinal]\\src\\front.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"nanopass" #"lang" #"reader.rkt") (collects #"nanopass" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
